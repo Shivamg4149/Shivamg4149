@@ -8,8 +8,8 @@
 <!--- TODO Add followers when >50
 [![GitHub followers](https://img.shields.io/github/followers/bharat-1809.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bharat-1809?tab=followers)
 -->
-  <img src='https://media.giphy.com/media/yAOjunY81Trjy/giphy.gif' align='right' width="40%">
 
+<img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" align="right" width=50%>
 **Talking about Personal Stuffs!**
 
 - 🔭 I’m currently working on a few ReactJs projects.
@@ -22,7 +22,6 @@
 
 </br>
 
-<br></br>
 
 
 ### 🛠 Tech Stack
