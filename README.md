@@ -32,3 +32,4 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamg4149&show_icons=true&hide_border=true&count_private=true)
